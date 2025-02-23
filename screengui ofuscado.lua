@@ -1,1 +1,137 @@
-loadstring("\108\111\99\97\108\32\115\99\114\101\101\110\71\117\105\67\88\32\61\32\73\110\115\116\97\110\99\101\46\110\101\119\40\34\83\99\114\101\101\110\71\117\105\34\41\10\115\99\114\101\101\110\71\117\105\67\88\46\78\97\109\101\32\61\32\34\67\88\83\99\114\101\101\110\71\117\105\34\10\115\99\114\101\101\110\71\117\105\67\88\46\80\97\114\101\110\116\32\61\32\103\97\109\101\46\80\108\97\121\101\114\115\46\76\111\99\97\108\80\108\97\121\101\114\58\87\97\105\116\70\111\114\67\104\105\108\100\40\34\80\108\97\121\101\114\71\117\105\34\41\10\108\111\99\97\108\32\102\114\97\109\101\67\88\32\61\32\73\110\115\116\97\110\99\101\46\110\101\119\40\34\70\114\97\109\101\34\44\32\115\99\114\101\101\110\71\117\105\67\88\41\10\102\114\97\109\101\67\88\46\83\105\122\101\32\61\32\85\68\105\109\50\46\110\101\119\40\48\46\51\44\32\48\44\32\48\46\50\44\32\48\41\10\102\114\97\109\101\67\88\46\80\111\115\105\116\105\111\110\32\61\32\85\68\105\109\50\46\110\101\119\40\48\46\51\53\44\32\48\44\32\48\46\52\44\32\48\41\10\102\114\97\109\101\67\88\46\66\97\99\107\103\114\111\117\110\100\67\111\108\111\114\51\32\61\32\67\111\108\111\114\51\46\102\114\111\109\82\71\66\40\53\48\44\32\53\48\44\32\53\48\41\10\102\114\97\109\101\67\88\46\66\97\99\107\103\114\111\117\110\100\84\114\97\110\115\112\97\114\101\110\99\121\32\61\32\48\46\50\10\102\114\97\109\101\67\88\46\67\108\105\112\115\68\101\115\99\101\110\100\97\110\116\115\32\61\32\116\114\117\101\10\102\114\97\109\101\67\88\46\80\97\114\101\110\116\32\61\32\115\99\114\101\101\110\71\117\105\67\88\10\108\111\99\97\108\32\99\111\114\110\101\114\67\88\32\61\32\73\110\115\116\97\110\99\101\46\110\101\119\40\34\85\73\67\111\114\110\101\114\34\41\10\99\111\114\110\101\114\67\88\46\67\111\114\110\101\114\82\97\100\105\117\115\32\61\32\85\68\105\109\46\110\101\119\40\48\44\32\50\53\41\10\99\111\114\110\101\114\67\88\46\80\97\114\101\110\116\32\61\32\102\114\97\109\101\67\88\10\108\111\99\97\108\32\116\105\116\108\101\67\88\32\61\32\73\110\115\116\97\110\99\101\46\110\101\119\40\34\84\101\120\116\76\97\98\101\108\34\41\10\116\105\116\108\101\67\88\46\83\105\122\101\32\61\32\85\68\105\109\50\46\110\101\119\40\49\44\32\48\44\32\48\46\51\44\32\48\41\10\116\105\116\108\101\67\88\46\80\111\115\105\116\105\111\110\32\61\32\85\68\105\109\50\46\110\101\119\40\48\44\32\48\44\32\48\44\32\48\41\10\116\105\116\108\101\67\88\46\66\97\99\107\103\114\111\117\110\100\84\114\97\110\115\112\97\114\101\110\99\121\32\61\32\49\10\116\105\116\108\101\67\88\46\84\101\120\116\32\61\32\34\67\88\32\77\79\68\68\69\82\34\10\116\105\116\108\101\67\88\46\84\101\120\116\67\111\108\111\114\51\32\61\32\67\111\108\111\114\51\46\102\114\111\109\82\71\66\40\50\53\53\44\32\50\53\53\44\32\50\53\53\41\10\116\105\116\108\101\67\88\46\84\101\120\116\83\99\97\108\101\100\32\61\32\116\114\117\101\10\116\105\116\108\101\67\88\46\70\111\110\116\32\61\32\69\110\117\109\46\70\111\110\116\46\71\111\116\104\97\109\66\111\108\100\10\116\105\116\108\101\67\88\46\80\97\114\101\110\116\32\61\32\102\114\97\109\101\67\88\10\108\111\99\97\108\32\100\101\115\99\114\105\112\116\105\111\110\67\88\32\61\32\73\110\115\116\97\110\99\101\46\110\101\119\40\34\84\101\120\116\76\97\98\101\108\34\41\10\100\101\115\99\114\105\112\116\105\111\110\67\88\46\83\105\122\101\32\61\32\85\68\105\109\50\46\110\101\119\40\49\44\32\48\44\32\48\46\55\44\32\48\41\10\100\101\115\99\114\105\112\116\105\111\110\67\88\46\80\111\115\105\116\105\111\110\32\61\32\85\68\105\109\50\46\110\101\119\40\48\44[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://github.com/RubyBoo4life/new-trolling-gui/tree/a02895c404bdb1197cbec825114356c0cf4d361a/README.md?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "1")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://github.com/quocanhnn1008/murder-2/tree/c94c37bf0173a94fd666f1c414757af64db0418d/README.md?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "2")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://github.com/RubyBoo4life/bedwars-v1/tree/52885e4e043fe25fc0ffad40f1b1a42407ff30f4/README.md?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://github.com/noob1ee1/notoriety/tree/d5abd52d43bed6c22bea1c4da070dda68f1d68f3/README.md?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "4")
+-- Cria uma nova ScreenGui para "CX MODDER"
+local screenGuiCX = Instance.new("ScreenGui")
+screenGuiCX.Name = "CXScreenGui"
+screenGuiCX.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+
+-- Cria um Frame para o aviso com bordas arredondadas
+local frameCX = Instance.new("Frame")
+frameCX.Size = UDim2.new(0.3, 0, 0.2, 0)
+frameCX.Position = UDim2.new(0.35, 0, 0.4, 0)
+frameCX.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+frameCX.BackgroundTransparency = 0.2
+frameCX.ClipsDescendants = true
+frameCX.Parent = screenGuiCX
+
+-- Adiciona cantos arredondados ao Frame
+local cornerCX = Instance.new("UICorner")
+cornerCX.CornerRadius = UDim.new(0, 25)
+cornerCX.Parent = frameCX
+
+-- Adiciona ttulo ao Frame
+local titleCX = Instance.new("TextLabel")
+titleCX.Size = UDim2.new(1, 0, 0.3, 0)
+titleCX.Position = UDim2.new(0, 0, 0, 0)
+titleCX.BackgroundTransparency = 1
+titleCX.Text = "CX MODDER"
+titleCX.TextColor3 = Color3.fromRGB(255, 255, 255)
+titleCX.TextScaled = true
+titleCX.Font = Enum.Font.GothamBold
+titleCX.Parent = frameCX
+
+-- Adiciona descrio ao Frame
+local descriptionCX = Instance.new("TextLabel")
+descriptionCX.Size = UDim2.new(1, 0, 0.7, 0)
+descriptionCX.Position = UDim2.new(0, 0, 0.3, 0)
+descriptionCX.BackgroundTransparency = 1
+descriptionCX.Text = "Este menu foi feito pelo CXMODDER"
+descriptionCX.TextColor3 = Color3.fromRGB(255, 255, 255)
+descriptionCX.TextScaled = true
+descriptionCX.Font = Enum.Font.Gotham
+descriptionCX.Parent = frameCX
+
+-- Torna o ScreenGui "CX MODDER" invisvel aps 5 segundos e abre o prximo ScreenGui
+delay(5, function()
+    screenGuiCX.Enabled = false
+
+    -- Cria uma nova ScreenGui para "SEMI-UNIVERSAL AIMBOT"
+    local screenGui = Instance.new("ScreenGui")
+    screenGui.Name = "MainScreenGui"
+    screenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+
+    -- Cria um Frame para o aviso com bordas arredondadas
+    local frame = Instance.new("Frame")
+    frame.Size = UDim2.new(0, 0, 0, 0)  -- Comea pequeno
+    frame.Position = UDim2.new(0.35, 0, 0.4, 0)
+    frame.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+    frame.BackgroundTransparency = 0.2
+    frame.ClipsDescendants = true
+    frame.Parent = screenGui
+
+    -- Adiciona cantos arredondados ao Frame
+    local corner = Instance.new("UICorner")
+    corner.CornerRadius = UDim.new(0, 25)
+    corner.Parent = frame
+
+    -- Adiciona ttulo ao Frame
+    local title = Instance.new("TextLabel")
+    title.Size = UDim2.new(1, 0, 0.3, 0)
+    title.Position = UDim2.new(0, 0, 0, 0)
+    title.BackgroundTransparency = 1
+    title.Text = "SEMI-UNIVERSAL AIMBOT"
+    title.TextColor3 = Color3.fromRGB(255, 255, 255)
+    title.TextScaled = true
+    title.Font = Enum.Font.GothamBold
+    title.Parent = frame
+
+    -- Adiciona boto grande "EXECUTE" ao Frame
+    local executeButton = Instance.new("TextButton")
+    executeButton.Size = UDim2.new(0.8, 0, 0.5, 0)
+    executeButton.Position = UDim2.new(0.1, 0, 0.4, 0)
+    executeButton.BackgroundColor3 = Color3.fromRGB(70, 70, 70)
+    executeButton.Text = "EXECUTE"
+    executeButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    executeButton.TextScaled = true
+    executeButton.Font = Enum.Font.GothamBold
+    executeButton.Parent = frame
+    executeButton.AutoButtonColor = false  -- Desativa a mudana de cor automtica do boto
+
+    -- Adiciona cantos arredondados ao boto
+    local buttonCorner = Instance.new("UICorner")
+    buttonCorner.CornerRadius = UDim.new(0, 15)
+    buttonCorner.Parent = executeButton
+
+    -- Funo para mostrar o dilogo
+    local function showDialog(title, description, duration)
+        game.StarterGui:SetCore("SendNotification", {
+            Title = title;
+            Text = description;
+            Duration = duration;
+        })
+    end
+
+    -- Animao de entrada
+    local TweenService = game:GetService("TweenService")
+    local tweenInfo = TweenInfo.new(3, Enum.EasingStyle.Quint, Enum.EasingDirection.Out)
+    local tween = TweenService:Create(frame, tweenInfo, {Size = UDim2.new(0.3, 0, 0.2, 0)})
+    tween:Play()
+
+    -- Funo para executar o cdigo ao clicar no boto
+    executeButton.MouseButton1Click:Connect(function()
+        if executeButton.Text == "EXECUTED" or executeButton.Text ~= "EXECUTE" then
+            return -- Evita a execuo dupla do script
+        end
+        
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Lk28s/Aimfov1/main/Wall%2BTeamCheck"))();
+        executeButton.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+        executeButton.Text = "EXECUTED"
+        executeButton.AutoButtonColor = false  -- Desativa a mudana de cor automtica do boto
+        showDialog("Ateno", "O cdigo foi executado com sucesso!", 10)
+
+        -- Inicia a contagem regressiva aps 3 segundos
+        wait(3)
+        executeButton.BackgroundColor3 = Color3.fromRGB(255, 255, 0)
+        for i = 10, 1, -1 do
+            if i <= 4 then
+                executeButton.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+            end
+            executeButton.Text = tostring(i)
+            wait(1)
+        end
+
+        -- Mostra o dilogo antes de destruir o ScreenGui
+        showDialog("AVISO", "O menu foi destrudo", 10)
+
+        -- Destroi o ScreenGui aps a contagem regressiva
+        screenGui:Destroy()
+    end)
+end)
