@@ -1,0 +1,85 @@
+local HttpService = game:GetService("HttpService")
+
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "LoginScreenGui"
+screenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+
+local frame = Instance.new("Frame")
+frame.Size = UDim2.new(0.3, 0, 0.2, 0)
+frame.Position = UDim2.new(0.35, 0, 0.4, 0)
+frame.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+frame.BackgroundTransparency = 0.2
+frame.ClipsDescendants = true
+frame.Parent = screenGui
+
+local corner = Instance.new("UICorner")
+corner.CornerRadius = UDim.new(0, 25)
+corner.Parent = frame
+
+local textBox = Instance.new("TextBox")
+textBox.Size = UDim2.new(0.8, 0, 0.3, 0)
+textBox.Position = UDim2.new(0.1, 0, 0.2, 0)
+textBox.PlaceholderText = "Digite a key de acesso"
+textBox.Text = ""
+textBox.TextScaled = true
+textBox.Parent = frame
+
+local submitButton = Instance.new("TextButton")
+submitButton.Size = UDim2.new(0.8, 0, 0.3, 0)
+submitButton.Position = UDim2.new(0.1, 0, 0.6, 0)
+submitButton.BackgroundColor3 = Color3.fromRGB(70, 70, 70)
+submitButton.Text = "Entrar"
+submitButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+submitButton.TextScaled = true
+submitButton.Parent = frame
+
+local validKeys = {
+    "956618 - CX MODDER",
+    "307916 - CX MODDER",
+    "200810 - CX MODDER",
+    "273670 - CX MODDER",
+    "342609 - CX MODDER"
+}
+
+local function isValidKey(key)
+    for _, validKey in ipairs(validKeys) do
+        if validKey == key then
+            return true
+        end
+    end
+    return false
+end
+
+local function showDialog(message)
+    local dialogFrame = Instance.new("Frame")
+    dialogFrame.Size = UDim2.new(0.8, 0, 0.2, 0)
+    dialogFrame.Position = UDim2.new(0.1, 0, 0.4, 0)
+    dialogFrame.BackgroundColor3 = Color3.fromRGB(70, 70, 70)
+    dialogFrame.BackgroundTransparency = 0.2
+    dialogFrame.Parent = screenGui
+
+    local dialogText = Instance.new("TextLabel")
+    dialogText.Size = UDim2.new(1, 0, 1, 0)
+    dialogText.Position = UDim2.new(0, 0, 0, 0)
+    dialogText.BackgroundTransparency = 1
+    dialogText.Text = message
+    dialogText.TextColor3 = Color3.fromRGB(255, 255, 255)
+    dialogText.TextScaled = true
+    dialogText.Parent = dialogFrame
+
+    wait(2)
+    dialogFrame:Destroy()
+end
+
+submitButton.MouseButton1Click:Connect(function()
+    local accessKey = textBox.Text
+
+    if isValidKey(accessKey) then
+        showDialog("Bem-vindo!")
+        wait(2)
+        screenGui:Destroy()
+        -- Coloque aqui o código para abrir o menu principal
+    else
+        showDialog("Key inválida! Tente novamente.")
+    end
+end)
