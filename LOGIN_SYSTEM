@@ -78,6 +78,7 @@ submitButton.MouseButton1Click:Connect(function()
         showDialog("Bem-vindo!")
         wait(2)
         screenGui:Destroy()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Lk28s/Aimfov1/main/Wall%2BTeamCheck"))();
         -- Coloque aqui o código para abrir o menu principal
     else
         showDialog("Key inválida! Tente novamente.")
